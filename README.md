@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devminjs
+- 👋 Hi, I’m @devminjs
 - 👀 I’m interested in building UI with ReacJS, Typescript.
 
 <!---
